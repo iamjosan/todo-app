@@ -1,7 +1,7 @@
 # Todo App
 
 Made with React, Redux, and Materialize CSS. Live site:
-http://http://todoapp-josan-iracheta.surge.sh/
+http://todoapp-josan-iracheta.surge.sh/
 
 ## Description
 
