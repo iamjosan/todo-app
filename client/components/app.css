@@ -1,0 +1,23 @@
+@import url("http://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css");
+
+#add-todo-btn {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+#sidenav-overlay {
+  display: none;
+}
+
+.active-link {
+  background: #d66367 !important;
+  color: white !important;
+}
+
+@media screen and (min-width: 993px) {
+  nav .brand-logo {
+    left: 15px;
+  }
+}
